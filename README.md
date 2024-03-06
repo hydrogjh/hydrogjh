@@ -1,6 +1,6 @@
 ### Hi there 👋
 My major is hydro and water resources engineering.
-Hope I can get ahead everydar!
+Hope I can get ahead everyday.
 <!--
 **hydrogjh/hydrogjh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
